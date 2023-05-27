@@ -3,6 +3,7 @@ I am Data Analyst.
 I turn data into information, information into insights and insights into business decisions.
 
 💬 Ask me about how I could help you)
+📧 How to reach me: em.martynova@yandex.ru
 <!--
 **MartynovaElena/MartynovaElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
