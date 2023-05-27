@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! It's Elena Martynova here 👋
+I am Data Analyst. 
+I turn data into information, information into insights and insights into business decisions.
 
+💬 Ask me about how I could help you)
 <!--
 **MartynovaElena/MartynovaElena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
